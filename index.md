@@ -48,7 +48,7 @@ src="./1.jpg"        alt="testimage" />
         src="./3.png">
     <p class="description">数据来源：埃及中央公共动员和统计局
     <p></p>
-    <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
+    <div style="background-color: white; width: 750px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
     <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;">
         那么根据上面的图，我们来分析一下埃及最受欢迎的行业。根据2021年的年度统计，我们能看道最受欢迎的是农业，总劳动力人数达到了52322人，一共总劳动力的19.2%。第二最大的行业是贸易以及零售，总劳动力人数到了40768人，占有总劳动力的15%。
         第三是建筑业，总劳动力人数达到了37384人，总劳动力的13.8%。第四个是制造商，总劳动力人数达到了34140人，总劳动力的12.6%。 在第五位是运输行业，总劳动力人数达到了24206人，总劳动力的8.9%.</p>
