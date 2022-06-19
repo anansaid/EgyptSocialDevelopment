@@ -2,7 +2,7 @@
 <head>
     <style>
         body {
-            background-image: src="./background.JPEG";
+            background-image:
             background-repeat: repeat;
         }
     </style>
