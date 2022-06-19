@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -95,7 +95,4 @@ src="./1.jpg"        alt="testimage" />
     <img width="794" alt="自主就业"
         src="./8.png">
     <p class="description">数据来源：世界银行
-    <p>
-</body>
 
-</html>
