@@ -6,8 +6,7 @@
             background-repeat: repeat;
         }
     </style>
-
-    
+   
     <style>
         body {
             background-color: whitesmoke;
