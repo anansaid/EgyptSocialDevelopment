@@ -45,7 +45,6 @@ src="./1.jpg"        alt="testimage" />
         <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;">只有大概45%的人愿意在城区生活的，其他事选择在农村里生活。</p>
     </div>
 
-
     <img width="794"
         src="./3.png">
     <p class="description">数据来源：埃及中央公共动员和统计局
