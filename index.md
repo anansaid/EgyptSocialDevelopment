@@ -21,7 +21,7 @@
 </head>
 
 <body>
-    <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
+    <div style="background-color: white; width: 750px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
     <h1 style="font-style: italic;font-size: xx-large;font-weight: bold;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">埃及近20年的社会发展 （2000-2020）</h1>
 </div> 
 <div style="background-color: white; width: 750px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
