@@ -60,7 +60,7 @@ src="./1.jpg"        alt="testimage" />
         src="./4.png">
     <p class="description">数据来源：埃及中央公共动员和统计局
     <p>
-        <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
+        <div style="background-color: white; width: 750px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
     <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;">如果拿埃及地图做简单的分析，我们能学到，在尼罗河的两岸这地方，农业最发达的。所以人口比较多的北方靠近尼罗河的一些城市劳动力人数最多。</p>
         </div> 
         <img width="794"
@@ -68,7 +68,7 @@ src="./1.jpg"        alt="testimage" />
             alt="testimage" />
     <p class="description">数据来源：埃及中央公共动员和统计局
     <p>
-        <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
+        <div style="background-color: white; width: 750px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
     <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;">
         那么在上面的图能看到埃及男女劳动力的差别非常的大。原因有很多，比如：女性在埃及面临的低工资，很多公司还是会把女性的工资低于男性的。女性在非正式市场工作也是一个很大的问题，特别是在没受足够教育的农村地区，导致该地区的女性识字率较低，所以无法参与正式工作市场。另外是埃及女性无法获得很好的社会保险。
     </p>
@@ -79,14 +79,14 @@ src="./1.jpg"        alt="testimage" />
     <p class="description">数据来源：埃及中央公共动员和统计局
     
     <p>
-        <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
+        <div style="background-color: white; width: 750px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
     <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;"> 这也导致了女性失业人数比男性要高很多。</p>
     </div>
     <img width="794" src="./7.png" alt="testimage" />
     <p class="description">数据来源：埃及中央公共动员和统计局
     <p>
         
-        <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
+        <div style="background-color: white; width: 750px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
     <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;">那么由于上面的原因，数据说明在埃及选择做自由工作的人，还是女性比男性要多一点。</p>
     <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;">20年的平均值是：女性为43.6%，男性为36.3%</p>
     </div>
@@ -95,7 +95,7 @@ src="./1.jpg"        alt="testimage" />
     <p class="description">数据来源：世界银行
         
 
-         <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;"> <p> 作者：安琳</p>
+         <div style="background-color: white; width: 750px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;"> <p> 作者：安琳</p>
              <p> 指导老师：白净教授</p>
              <p> 南京大学｜新闻传播学院</p>
     </div>
