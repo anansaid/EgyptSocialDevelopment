@@ -93,8 +93,9 @@ src="./1.jpg"        alt="testimage" />
     </div>
     <img width="794" alt="自主就业"
         src="./8.png">
-    <p class="description">数据来源：世界银行
+    <p class="description">数据来源：世界银行</p>
 
-        作者：安琳
+      <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">  作者：安琳
         指导老师：白净教授
-        南京大学｜新闻传播学院｜数据新闻
+        南京大学｜新闻传播学院
+    </div>
