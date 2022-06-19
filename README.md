@@ -96,4 +96,5 @@ src="./1.jpg"        alt="testimage" />
         src="./8.png">
     <p class="description">数据来源：世界银行
 
-      作者：安琳
+        作者：安琳
+        指导老师：白净教授
