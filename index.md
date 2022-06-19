@@ -78,6 +78,7 @@ src="./1.jpg"        alt="testimage" />
         src="./6.png"
         alt="testimage" />
     <p class="description">数据来源：埃及中央公共动员和统计局
+    
     <p>
         <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
     <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;"> 这也导致了女性失业人数比男性要高很多。</p>
@@ -85,6 +86,7 @@ src="./1.jpg"        alt="testimage" />
     <img width="794" src="./7.png" alt="testimage" />
     <p class="description">数据来源：埃及中央公共动员和统计局
     <p>
+        
         <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
     <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;">那么由于上面的原因，数据说明在埃及选择做自由工作的人，还是女性比男性要多一点。</p>
     <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;">20年的平均值是：女性为43.6%，男性为36.3%</p>
@@ -92,6 +94,7 @@ src="./1.jpg"        alt="testimage" />
     <img width="794" alt="自主就业"
         src="./8.png">
     <p class="description">数据来源：世界银行
+        
 
          <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;"> <p> 作者：安琳</p>
              <p> 指导老师：白净教授</p>
