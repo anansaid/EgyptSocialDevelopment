@@ -45,7 +45,6 @@ src="./1.jpg"        alt="testimage" />
     </div>
 
 
-
     <img width="794"
         src="./3.png">
     <p class="description">数据来源：埃及中央公共动员和统计局
