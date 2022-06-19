@@ -37,7 +37,7 @@ src="./1.jpg"        alt="testimage" />
             src="./2.png">
     <p class="description">数据来源：世界银行<p>
 
-    <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
+    <div style="background-color: white; width: 750px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
         <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;">在埃及人口的20年的发展中，平均寿命分为女性：74岁，男性：70岁。</p>
         <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;">
             那么说到埃及城区总人口呢。我们能看到在20年的时间，城区人口几乎没有改变。这也说明埃及还是便于农村地区，而且根据下面的行业分析能发现埃及的最受欢迎的行业还是在农村地区。</p>
