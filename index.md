@@ -4,7 +4,7 @@
 <head>
     <style>
         body {
-            background-image: url('file:///Users/anansaid/Desktop/4B254E4E-11A8-4FCA-9E0E-1DF273F6F19A.JPEG');
+            background-image: src="./background.JPEG";
             background-repeat: repeat;
         }
     </style>
