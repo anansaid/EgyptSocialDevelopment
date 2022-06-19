@@ -21,10 +21,10 @@
 </head>
 
 <body>
-    <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
+    <div style="background-color: white; width: 750px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
     <h1 style="font-style: italic;font-size: xx-large;font-weight: bold;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">埃及近20年的社会发展 （2000-2020）</h1>
 </div> 
-<div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
+<div style="background-color: white; width: 750px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">
     <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;">埃及在最近20年经历了很多社会的发展与变化，以下拿了一些数据分析分析</p>
     <p style="font-weight:bold;font-family:Arial, Helvetica, sans-serif;letter-spacing: 2px;">首先是埃及2000-2020年的总人口图</p>
 </div>
