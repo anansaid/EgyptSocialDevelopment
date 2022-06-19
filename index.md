@@ -94,5 +94,7 @@ src="./1.jpg"        alt="testimage" />
         src="./8.png">
     <p class="description">数据来源：世界银行
 
-        作者：安琳
+         <div style="background-color: white; width: 794px;margin: auto;padding-top: 20px;padding-bottom: 20px;margin-bottom: 10px;">  作者：安琳
         指导老师：白净教授
+        南京大学｜新闻传播学院
+    </div>
