@@ -2,7 +2,7 @@
 <head>
     <style>
         body {
-            background-image:
+            background-image: url(file:///Users/anansaid/Desktop/Anan/Background.JPEG);
             background-repeat: repeat;
         }
     </style>
